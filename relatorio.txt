@@ -1,0 +1,15 @@
+=============================================
+          RELATÓRIO DE ANÁLISE DE DADOS
+=============================================
+Total de registros: 4
+Registros válidos: 3
+Registros inválidos: 1
+
+REGISTROS VÁLIDOS
+E-mail: ana@email.com | CPF: 123.456.789-09 | Telefone: (11) 98765-4321 | Data: 15/03/2025
+E-mail: bruno@email.com | CPF: 987.654.321-00 | Telefone: (21) 91234-5678 | Data: 20/04/2025
+E-mail: carla@email.com | CPF: 111.222.333-44 | Telefone: (31) 99876-5432 | Data: 10/05/2025
+
+REGISTROS INVÁLIDOS
+Linha 4: E-mail inválido
+=============================================
